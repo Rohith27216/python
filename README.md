@@ -1,1 +1,1 @@
-# python
+# python qr code
